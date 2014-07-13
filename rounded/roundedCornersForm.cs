@@ -18,16 +18,6 @@ namespace rounded
             InitializeComponent();
         }
 
-        private void pictureBox1_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void pictureBox3_Click(object sender, EventArgs e)
-        {
-
-        }
-
         private void roundedCornersForm_Load(object sender, EventArgs e)
         {
             drawRoundedCorners();
